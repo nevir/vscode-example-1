@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "command": "./node_modules/.bin/gulp",
+  "isShellCommand": true,
+  "tasks": [
+    {
+      "taskName": "watch",
+      "isBuildCommand": true,
+      "showOutput": "always",
+      "isWatching": true
+    }
+  ]
+}
